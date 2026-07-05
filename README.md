@@ -1,7 +1,7 @@
 # Isotope-Simulator
 This simulator lets users add protons and neutrons to a nucleus, allowing them to create isotopes for various elements.
 
-# What is an isotope
+# What is an Isotope
 In an atom's nucleus, there are two main subatomic particles: the proton and the neutron. The proton determines the element's identity, or its name. For a certain element, though, the number of neutrons can vary. For example, a hydrogen atom always has 1 proton, but it can have 0, 1, or 2 neutrons in the nucleus. Each of these variations in the number of neutrons is called an isotope.
 
 # How to Use
